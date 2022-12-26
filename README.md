@@ -14,7 +14,7 @@ minimizing execution time and maximizing signal-to-noise ratio:
 
 
 The developed routine reduces of 32% the execution time,
-from 25ms to 17ms, returning an SNR = 22.37dB.
+from 25ms to 17ms, returning an SNR = 22.37dB. The analysis is deepened in https://github.com/ScorcaF/FastMFCC/blob/21f000e0aa346a0eded66ec63c7705f6f4002c18/Group14_Homework1.pdf
 
 ## Background
 
